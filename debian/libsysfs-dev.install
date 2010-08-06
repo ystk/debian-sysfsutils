@@ -1,0 +1,4 @@
+lib/libsysfs.a usr/lib
+usr/include
+docs/libsysfs.txt usr/share/doc/libsysfs-dev/
+debian/local/libsysfs.pc usr/lib/pkgconfig
